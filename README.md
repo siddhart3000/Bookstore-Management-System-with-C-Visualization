@@ -23,18 +23,10 @@ Enhanced with a simple **HTML/CSS frontend** for data visualization and better u
 
 ---
 
-## 🖼️ Sample Screenshots
-
-| Console View | Web Visualization |
-|--------------|--------------------|
-| ![Console](./Screenshots/console_view.png) | ![Web](./Screenshots/web_view.png) |
-
----
-
 ## 📬 Contact
 
 **Siddharth Singh**  
-[LinkedIn](https://www.linkedin.com/in/siddharth-singh-rajput) | GitHub: [SidLPU](https://github.com/SidLPU)  
+[LinkedIn](https://www.linkedin.com/in/siddharth-singh-rajput) | GitHub: [SidLPU](https://github.com/siddhart3000)  
 Email: singhsiddharthgagha@gmail.com
 
 ---
