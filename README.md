@@ -1,33 +1,50 @@
-# 📚 Bookstore Management System with DSA & Visualization
+📚 Bookstore Management System with DSA & Visualization
+Duration: June 2024 – July 2024
+Tech Stack: C++, Data Structures & Algorithms (DSA), HTML, CSS
 
-An interactive Bookstore Management System built using **C++** with optimized **Data Structures & Algorithms (DSA)**, featuring CRUD operations for adding, updating, deleting, and searching book records.  
-Enhanced with a simple **HTML/CSS frontend** for data visualization and better user experience.
+📝 Project Overview
+This project showcases a Bookstore Management System developed using C++ with an emphasis on optimized Data Structures and Algorithms (DSA).
+It features a simple yet efficient backend logic combined with a visualization layer in HTML and CSS, allowing users to interact with the system through a web interface.
 
----
+🎯 Key Features
+✅ Add New Book — Store book details using Linked List (sorted by ID)
 
-## 🚀 Features
+✅ Search Book by ID — Efficient retrieval using traversal logic
 
-- ✅ Add, Delete, Update, and Search Books
-- ✅ Backend logic optimized with DSA concepts in C++
-- ✅ Clean and user-friendly frontend with HTML & CSS
-- ✅ Console-based operations with visual feedback layer
-- ✅ Modular code structure for easy customization
+✅ Update Book Details — Modify quantity, title, or author information
 
----
+✅ Delete Book — Remove book entries from the list
 
-## 🛠️ Tech Stack
+✅ Purchase Book — Simulate a purchase and push details onto a Stack (recent purchases)
 
-- **Backend:** C++, DSA (Arrays, Linked Lists)
-- **Frontend:** HTML, CSS
-- **Development Tools:** VS Code, Code::Blocks, Browser for UI
+✅ View Recent Purchases — Display using LIFO logic
 
----
+✅ Visualization Layer — Frontend built with HTML/CSS to display operations in a user-friendly interface
 
-## 📬 Contact
+🛠️ Tech Stack & Concepts
+C++ (Backend Logic):
 
-**Siddharth Singh**  
-[LinkedIn](https://www.linkedin.com/in/siddharth-singh-rajput) | GitHub: [SidLPU](https://github.com/siddhart3000)  
-Email: singhsiddharthgagha@gmail.com
+Singly Linked List for Book Storage
 
----
+Stack for Recent Purchases
 
+Search, Insert, Delete Operations
+
+Frontend (Visualization):
+
+HTML & CSS for interactive design
+
+Data displayed dynamically to mimic console-based operations
+
+🚀 How to Run
+Clone this repository
+
+Run the C++ source code in any C++ IDE (for console-based version)
+
+Open index.html in any browser (for UI prototype)
+
+📸 Screenshots
+(Add screenshots of your UI or console output here)
+
+🌐 Live Demo
+https://jade-croquembouche-703470.netlify.app/
